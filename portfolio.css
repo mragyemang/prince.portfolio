@@ -1,0 +1,26 @@
+html {
+  height: 100%;
+}
+
+.logo {
+  float: left;
+  height: 60px;
+  width: 60px;
+}
+#name {
+  padding-left: 50px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+#info {
+  column-count: 2;
+}
+#info p {
+  font-size: xx-large;
+  text-align: center;
+}
+#dp {
+  float: right;
+  height: 20rem;
+  width: 20rem;
+  padding-right: 20px;
+}
